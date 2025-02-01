@@ -3,7 +3,7 @@
 ---
 
 ### Моё резюме  
-![Resume](resume.png)  
+![Resume](resume.PNG)  
 
 ---
 
